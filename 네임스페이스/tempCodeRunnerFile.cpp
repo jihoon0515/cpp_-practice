@@ -1,0 +1,1 @@
+ProgComImp1::SimpleFunc();
